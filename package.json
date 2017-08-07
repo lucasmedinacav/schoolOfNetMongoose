@@ -1,0 +1,11 @@
+{
+  "name": "sonet-nodemongo",
+  "version": "1.0.0",
+  "description": "curso school of net de node express e mongo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lucas Medina",
+  "license": "ISC"
+}
